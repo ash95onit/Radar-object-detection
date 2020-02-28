@@ -1,4 +1,4 @@
-# SFND-Radar
+# Radar object detection
 
 ## 2D CFAR Implementation
 
